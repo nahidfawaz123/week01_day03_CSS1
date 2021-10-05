@@ -6,7 +6,7 @@ additional reading ‘CSS notes for professionals’ Chapter 18: Colors)
 - The text in all paragraphs should be maroon and Times New Roman.
 (See additional reading ‘CSS notes for professionals’ Chapter 15:
 Typography)
-- All the <h3> elements should be chocolate in color except for the
+- All the h3 elements should be chocolate in color except for the
 heading that contains the text “The info below is NOT mine….” which
 should be in red.
 - The image should be centered. (See additional reading ‘CSS
