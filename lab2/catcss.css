@@ -1,0 +1,27 @@
+ div {
+    
+    padding: 30px;
+    background-color: bisque;
+    border-style: groove;
+    border-color: brown;
+    display: block;
+    margin: 300px;
+}
+img {
+    max-width: 100%;  
+    height: auto;
+    border-style:inset;
+    border-color: rgb(238, 16, 16); 
+}
+p{
+    border-style: dotted;
+    border-width: thick;
+    background-color: rgb(206, 208, 231);
+    width: auto;
+    height: 20pc;
+    overflow: scroll;
+    
+}
+
+
+} 

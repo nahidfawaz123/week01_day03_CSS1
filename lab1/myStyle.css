@@ -1,0 +1,35 @@
+h1,h2 , h3 ,h4 {
+    background-color: rgba(248, 46, 10, 0.863);
+    text-align: center;
+}
+p {
+    color: maroon;
+    font-family: 'Times New Roman';
+}
+h3{
+    color: chocolate ;
+}
+span {
+    color :red
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+    body {
+        margin: 2pc;
+    }
+    th{
+        text-align: center;
+        color: red;
+
+    }
+    tr{
+        color: purple;
+    }
+    table, th, td {
+        border: 1px solid rgb(12, 101, 173);
+        margin-left: auto;
+        margin-right: auto;
+        
+      }
